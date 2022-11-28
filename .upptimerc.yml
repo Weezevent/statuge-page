@@ -9,7 +9,46 @@ sites:
     check: "tcp-ping"
     url: 127.0.0.53
     port: 53
-  
+  - name: WeezPay - Backend
+    check: "tcp-ping"
+    url: 127.0.0.53
+    port: 53
+  - name: WeezPay - Widget
+    check: "tcp-ping"
+    url: 127.0.0.53
+    port: 53
+  - name: WeezTarget
+    check: "tcp-ping"
+    url: 127.0.0.53
+    port: 53
+  - name: Back-office
+    check: "tcp-ping"
+    url: 127.0.0.53
+    port: 53
+  - name: Paiement / Payment
+    check: "tcp-ping"
+    url: 127.0.0.53
+    port: 53
+  - name: Guichet / Ticket Office
+    check: "tcp-ping"
+    url: 127.0.0.53
+    port: 53
+  - name: WeezAccess
+    check: "tcp-ping"
+    url: 127.0.0.53
+    port: 53
+  - name: Seats.io
+    check: "tcp-ping"
+    url: 127.0.0.53
+    port: 53
+  - name: API
+    check: "tcp-ping"
+    url: 127.0.0.53
+    port: 53
+  - name: E-mail
+    check: "tcp-ping"
+    url: 127.0.0.53
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,7 +59,7 @@ status-website:
   favicon: https://weezevent.com/apple-touch-icon.png
   name: Weezevent
   introTitle: "Weezevent status page, find here our most up-to-date communication about incident and scheduled maintenances."
-  theme: ocean
+  theme: light
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
