@@ -5,20 +5,23 @@ repo: status-page # The name of this repository
 sites:
   - name: Weezevent
     url: https://weezevent.com/en-gb/
-  - name: WeezTicket - API
-    url: https://api.weezevent.com/ticket/health
-  - name: WeezPay - API
-    check: "tcp-ping"
-    url: 127.0.0.53
-    port: 53
-  - name: WeezPay - Widget
-    check: "tcp-ping"
-    url: 127.0.0.53
-    port: 53
+
+    # APIs
+  - name: WeezTicket
+    url: https://api.weezevent.com/ticket/health # pyvar
+  - name: WeezAccess
+    url: https://api.weezevent.com/access/ # butter
+    expectedStatusCodes:
+      - 401
+  - name: WeezPay
+    url: https://api.weezevent.com/pay/ # gill
+    expectedStatusCodes:
+      - 406
   - name: WeezTarget
-    check: "tcp-ping"
-    url: 127.0.0.53
-    port: 53
+    url: https://api.weezevent.com/target/ # boby
+    expectedStatusCodes:
+      - 403
+
   - name: Back-office
     url: https://www.weezevent.com/bo/
   - name: WeezPayment
