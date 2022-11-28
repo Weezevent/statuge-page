@@ -51,4 +51,4 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  footer: powered by Upptime
+  footer: powered by [Upptime](https://upptime.js.org/)
