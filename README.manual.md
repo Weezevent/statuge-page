@@ -11,11 +11,20 @@
 1. you can break service on purpose by adding impossible condition seeing status code 601 for example. Also it will open Github Issue automatically with correctly assigned labels
 
 ```yaml
-name: What if i break with spaces
-url: https://duckduck.go
-expectedStatusCodes:
- - 601
+  - name: Weezevent
+    url: https://weezevent.com/en-gb/
+    expectedStatusCodes:
+    - 601
 
+```
+
+or u can break it by changing port from 53 to 601
+
+```yml
+  - name: WeezAccess
+    check: "tcp-ping"
+    url: 127.0.0.53
+    port: 601
 ```
 
 P.S. This action can be done in addition to manually opened Github Issue
@@ -24,11 +33,20 @@ P.S. This action can be done in addition to manually opened Github Issue
 
 ## 2.1 Automated
 
-1. If it was opened through status code 601, then remove next lines from .upptimerc.yml in the necessary service
+1. If it was opened through URL status code 601, then remove next lines from .upptimerc.yml in the necessary service
 
 ```yml
-expectedStatusCodes:
-- 601
+  - name: Weezevent
+    url: https://weezevent.com/en-gb/
+```
+
+or change port back from 601 to 53
+
+```yml
+  - name: WeezAccess
+    check: "tcp-ping"
+    url: 127.0.0.53
+    port: 53
 ```
 
 ## 2.2 Manual
