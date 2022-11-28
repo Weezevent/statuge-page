@@ -1,7 +1,7 @@
-url: 127.0.0.53
+url: https://api.weezevent.com/access/
 status: up
-code: 200
-responseTime: 0
-lastUpdated: 2022-11-28T14:56:32.024Z
+code: 401
+responseTime: 286
+lastUpdated: 2022-11-28T14:59:49.986Z
 startTime: Mon Nov 28 2022 12:50:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
