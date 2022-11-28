@@ -41,7 +41,7 @@ sites:
     check: "tcp-ping"
     url: 127.0.0.53
     port: 53
-  - name: API
+  - name: Seats.io
     check: "tcp-ping"
     url: 127.0.0.53
     port: 53
