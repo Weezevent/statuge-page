@@ -8,7 +8,7 @@
 
 ## 1.2 Automated:
 
-1. you can break service on purpose by adding impossible condition seeing status code 601 for example. Also it will open Github Issue automatically with correctly assigned labels :)
+1. you can break service on purpose by adding impossible condition seeing status code 601 for example. Also it will open Github Issue automatically with correctly assigned labels
 
 ```yaml
 name: What if i break with spaces
@@ -33,7 +33,7 @@ expectedStatusCodes:
 
 ## 2.2 Manual
 
-3. If Github Issue was opened manually, then just close it manually Optionally trigger `Uptiime CI` to update page quicker)
+3. If Github Issue was opened manually, then just close it manually
 
 # Notes
 
