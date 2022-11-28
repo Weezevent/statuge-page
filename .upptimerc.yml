@@ -8,7 +8,7 @@ sites:
   - name: WeezTicket - Widget
     check: "tcp-ping"
     url: 127.0.0.53
-    port: 53
+    port: 601
   - name: WeezPay - Backend
     check: "tcp-ping"
     url: 127.0.0.53
@@ -50,7 +50,7 @@ status-website:
   name: Weezevent Status
   introTitle: "This is Weezevent’s status page, where you can get updates on how our systems are doing. If there are interruptions to service, we will post a note here."
   introMessage: "If you are experiencing any issues with Weezevent, don’t hesitate to get in touch with us at contact@weezevent.com and we’ll get back to you as soon as we can."
-  
+
   # real address https://raw.githubusercontent.com/Weezevent/status-page/master/assets/weezevent-theme.css
   # but it is not discovered https://github.com/upptime/upptime/issues/468
   themeUrl: https://cdn.statically.io/gh/Weezevent/status-page/master/assets/weezevent-theme.css
