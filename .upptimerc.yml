@@ -49,7 +49,7 @@ status-website:
   favicon: https://weezevent.com/apple-touch-icon.png
   name: Weezevent
   introTitle: "Weezevent status page, find here our most up-to-date communication about incident and scheduled maintenances."
-  themeUrl: https://raw.githubusercontent.com/upptime/upptime/master/assets/weezevent-theme.css
+  themeUrl: https://raw.githubusercontent.com/weezevent/status-page/master/assets/weezevent-theme.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
