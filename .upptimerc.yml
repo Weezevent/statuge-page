@@ -12,6 +12,7 @@ status-website:
   baseUrl: /status-page
   # baseUrl: /your-repo-name
   logoUrl: https://weezevent.com/apple-touch-icon.png
+  favicon: https://weezevent.com/apple-touch-icon.png
   name: Weezevent
   introTitle: "Weezevent status page, find here our most up-to-date communication about incident and scheduled maintenances."
   theme: ocean
