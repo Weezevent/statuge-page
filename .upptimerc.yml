@@ -54,7 +54,9 @@ status-website:
   links:
     - rel: stylesheet
       href: https://raw.githubusercontent.com/weezevent/status-page/master/assets/weezevent-theme.css
-
+  metaTags:
+    - name: "check-meta"
+      content: "meta-response"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
