@@ -57,6 +57,7 @@ status-website:
   metaTags:
     - name: "check-meta"
       content: "meta-response"
+  css: "h1 { font-size: 24px !important }"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
