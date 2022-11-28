@@ -21,17 +21,13 @@ sites:
     url: https://api.weezevent.com/target/ # boby
     expectedStatusCodes:
       - 403
+  - name: WeezPayment
+    url: lyria.weezevent.com/health
 
   - name: Back-office
     url: https://www.weezevent.com/bo/
-  - name: WeezPayment
-    url: lyria.weezevent.com/health
   - name: Guichet / Ticket Office
     url: https://guichet.weezevent.com/
-  - name: WeezAccess
-    check: "tcp-ping"
-    url: 127.0.0.53
-    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
