@@ -1,6 +1,6 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.weezevent.com): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Weezevent](https://status.weezevent.com), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/Weezevent/status-page/workflows/Uptime%20CI/badge.svg)](https://github.com/Weezevent/status-page/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Weezevent/status-page/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Weezevent/status-page/actions?query=workflow%3A%22Response+Time+CI%22)
