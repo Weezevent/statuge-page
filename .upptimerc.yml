@@ -32,7 +32,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /status-page
+  cname: status.weezevent.be
+  baseUrl: /
   # baseUrl: /your-repo-name
   logoUrl: https://weezevent.com/apple-touch-icon.png
   favicon: https://weezevent.com/apple-touch-icon.png
