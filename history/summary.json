@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 350,
     "timeDay": 0,
-    "timeWeek": 390,
+    "timeWeek": 408,
     "timeMonth": 350,
     "timeYear": 350,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 318,
     "timeDay": 0,
-    "timeWeek": 352,
+    "timeWeek": 365,
     "timeMonth": 318,
     "timeYear": 318,
     "dailyMinutesDown": {}
@@ -94,19 +94,19 @@
     "url": "lyria.weezevent.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "weez-payment",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 509,
-    "timeDay": 0,
-    "timeWeek": 527,
-    "timeMonth": 509,
-    "timeYear": 509,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 505,
+    "timeDay": 418,
+    "timeWeek": 523,
+    "timeMonth": 505,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2022-12-15": 0
+      "2022-12-15": 9
     }
   },
   {
@@ -122,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 1526,
     "timeDay": 0,
-    "timeWeek": 1301,
+    "timeWeek": 1369,
     "timeMonth": 1526,
     "timeYear": 1526,
     "dailyMinutesDown": {}
@@ -140,7 +140,7 @@
     "uptimeYear": "100.00%",
     "time": 841,
     "timeDay": 0,
-    "timeWeek": 761,
+    "timeWeek": 815,
     "timeMonth": 841,
     "timeYear": 841,
     "dailyMinutesDown": {}
