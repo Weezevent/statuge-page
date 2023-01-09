@@ -8,7 +8,7 @@ sites:
 
     # APIs
   - name: WeezAccess
-    url: https://api.weezevent.com/access/health_DOWN # butter
+    url: https://api.weezevent.com/access/health # butter
   - name: WeezPay
     url: https://api.weezevent.com/pay/health # gill
   - name: WeezTarget
