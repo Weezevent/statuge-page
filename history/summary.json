@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1526,
-    "timeDay": 1517,
-    "timeWeek": 1506,
-    "timeMonth": 1577,
-    "timeYear": 1526,
+    "time": 1528,
+    "timeDay": 1534,
+    "timeWeek": 1517,
+    "timeMonth": 1580,
+    "timeYear": 1528,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 365,
-    "timeDay": 395,
-    "timeWeek": 380,
-    "timeMonth": 374,
-    "timeYear": 365,
+    "time": 371,
+    "timeDay": 425,
+    "timeWeek": 400,
+    "timeMonth": 382,
+    "timeYear": 371,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "https://api.weezevent.com/pay/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.weezevent.com.ico",
     "slug": "weez-pay",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 414,
-    "timeWeek": 368,
-    "timeMonth": 345,
-    "timeYear": 340,
+    "time": 344,
+    "timeDay": 429,
+    "timeWeek": 380,
+    "timeMonth": 350,
+    "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-01-09": 0
+      "2023-01-09": 1
     }
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 350,
-    "timeWeek": 339,
-    "timeMonth": 332,
-    "timeYear": 323,
+    "time": 319,
+    "timeDay": 330,
+    "timeWeek": 327,
+    "timeMonth": 327,
+    "timeYear": 319,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 511,
-    "timeDay": 534,
-    "timeWeek": 531,
-    "timeMonth": 517,
-    "timeYear": 511,
+    "time": 515,
+    "timeDay": 552,
+    "timeWeek": 542,
+    "timeMonth": 522,
+    "timeYear": 515,
     "dailyMinutesDown": {
       "2022-12-15": 9
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1424,
-    "timeDay": 1398,
-    "timeWeek": 1343,
-    "timeMonth": 1311,
-    "timeYear": 1424,
+    "time": 1429,
+    "timeDay": 1440,
+    "timeWeek": 1373,
+    "timeMonth": 1324,
+    "timeYear": 1429,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 838,
-    "timeDay": 851,
-    "timeWeek": 841,
-    "timeMonth": 831,
-    "timeYear": 838,
+    "time": 842,
+    "timeDay": 877,
+    "timeWeek": 858,
+    "timeMonth": 838,
+    "timeYear": 842,
     "dailyMinutesDown": {}
   },
   {
@@ -140,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 435,
-    "timeWeek": 419,
-    "timeMonth": 407,
-    "timeYear": 395,
+    "time": 398,
+    "timeDay": 450,
+    "timeWeek": 429,
+    "timeMonth": 412,
+    "timeYear": 398,
     "dailyMinutesDown": {}
   }
 ]
