@@ -10,7 +10,7 @@ sites:
   - name: WeezTicket
     url: https://api.weezevent.com/ticket/health # pyvar
   - name: WeezAccess
-    url: https://ap.weezevent.com/access/health # butter
+    url: https://api.weezevent.com/access/health # butter
   - name: WeezPay
     url: https://api.weezevent.com/pay/health # gill
   - name: WeezTarget
