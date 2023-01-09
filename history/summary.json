@@ -10,30 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1528,
-    "timeDay": 1534,
-    "timeWeek": 1517,
-    "timeMonth": 1580,
-    "timeYear": 1528,
+    "time": 1526,
+    "timeDay": 1518,
+    "timeWeek": 1507,
+    "timeMonth": 1574,
+    "timeYear": 1526,
     "dailyMinutesDown": {}
   },
   {
     "name": "WeezAccess",
-    "url": "https://api.weezevent.com/access/health",
+    "url": "https://api.weezevent.com/access/health_DOWN",
     "icon": "https://icons.duckduckgo.com/ip3/api.weezevent.com.ico",
     "slug": "weez-access",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 425,
-    "timeWeek": 400,
-    "timeMonth": 382,
-    "timeYear": 371,
-    "dailyMinutesDown": {}
+    "time": 370,
+    "timeDay": 414,
+    "timeWeek": 394,
+    "timeMonth": 380,
+    "timeYear": 370,
+    "dailyMinutesDown": {
+      "2023-01-09": 0
+    }
   },
   {
     "name": "WeezPay",
@@ -42,18 +44,16 @@
     "slug": "weez-pay",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 429,
-    "timeWeek": 380,
-    "timeMonth": 350,
-    "timeYear": 344,
-    "dailyMinutesDown": {
-      "2023-01-09": 1
-    }
+    "time": 343,
+    "timeDay": 416,
+    "timeWeek": 374,
+    "timeMonth": 349,
+    "timeYear": 343,
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeezTarget",
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 330,
-    "timeWeek": 327,
-    "timeMonth": 327,
-    "timeYear": 319,
+    "time": 315,
+    "timeDay": 307,
+    "timeWeek": 312,
+    "timeMonth": 321,
+    "timeYear": 315,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 515,
-    "timeDay": 552,
-    "timeWeek": 542,
-    "timeMonth": 522,
-    "timeYear": 515,
+    "time": 513,
+    "timeDay": 538,
+    "timeWeek": 534,
+    "timeMonth": 519,
+    "timeYear": 513,
     "dailyMinutesDown": {
       "2022-12-15": 9
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1429,
-    "timeDay": 1440,
-    "timeWeek": 1373,
-    "timeMonth": 1324,
-    "timeYear": 1429,
+    "time": 1422,
+    "timeDay": 1393,
+    "timeWeek": 1346,
+    "timeMonth": 1314,
+    "timeYear": 1422,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 877,
-    "timeWeek": 858,
-    "timeMonth": 838,
-    "timeYear": 842,
+    "time": 841,
+    "timeDay": 868,
+    "timeWeek": 853,
+    "timeMonth": 836,
+    "timeYear": 841,
     "dailyMinutesDown": {}
   },
   {
@@ -140,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 450,
-    "timeWeek": 429,
-    "timeMonth": 412,
-    "timeYear": 398,
+    "time": 395,
+    "timeDay": 430,
+    "timeWeek": 418,
+    "timeMonth": 407,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   }
 ]
