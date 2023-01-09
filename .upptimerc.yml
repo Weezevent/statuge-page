@@ -7,12 +7,12 @@ sites:
     url: https://weezevent.com/en-gb/
 
     # APIs
-  - name: WeezTicket
-    url: https://api.weezevent.com/ticket/health # pyvar
   - name: WeezAccess
     url: https://api.weezevent.com/access/health # butter
   - name: WeezPay
     url: https://api.weezevent.com/pay/health # gill
+    expectedStatusCodes:
+      - 505
   - name: WeezTarget
     url: https://api.weezevent.com/target/ # boby
     expectedStatusCodes:
@@ -24,6 +24,8 @@ sites:
     url: https://www.weezevent.com/bo/
   - name: Guichet / Ticket Office
     url: https://guichet.weezevent.com/
+  - name: WeezTicket
+    url: https://api.weezevent.com/ticket/health # pyvar
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
