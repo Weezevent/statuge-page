@@ -10,13 +10,9 @@ sites:
   - name: WeezTicket
     url: https://api.weezevent.com/ticket/health # pyvar
   - name: WeezAccess
-    url: https://api.weezevent.com/access/ # butter
-    expectedStatusCodes:
-      - 401
+    url: https://ap.weezevent.com/access/health # butter
   - name: WeezPay
-    url: https://api.weezevent.com/pay/ # gill
-    expectedStatusCodes:
-      - 406
+    url: https://api.weezevent.com/pay/health # gill
   - name: WeezTarget
     url: https://api.weezevent.com/target/ # boby
     expectedStatusCodes:
