@@ -11,8 +11,6 @@ sites:
     url: https://api.weezevent.com/access/health # butter
   - name: WeezPay
     url: https://api.weezevent.com/pay/health # gill
-    expectedStatusCodes:
-      - 505
   - name: WeezTarget
     url: https://api.weezevent.com/target/ # boby
     expectedStatusCodes:
