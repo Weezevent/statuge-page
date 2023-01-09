@@ -11,8 +11,6 @@ sites:
     url: https://api.weezevent.com/ticket/health # pyvar
   - name: WeezAccess
     url: https://api.weezevent.com/access/health # butter
-    expectedStatusCodes:
-      - 505
   - name: WeezPay
     url: https://api.weezevent.com/pay/health # gill
   - name: WeezTarget
@@ -51,7 +49,3 @@ status-website:
 
 i18n:
   footer: powered by [Upptime](https://upptime.js.org/)
-
-commitMessages:
-  commitAuthorName: "Weezevent-ops"
-  commitAuthorEmail: "upptime@koj.co"
