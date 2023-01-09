@@ -1,7 +1,7 @@
-url: https://api.weezevent.com/access/health
-status: up
-code: 200
-responseTime: 672
-lastUpdated: 2023-01-09T18:19:57.082Z
+url: https://api.weezevent.com/access/health_DOWN
+status: down
+code: 404
+responseTime: 311
+lastUpdated: 2023-01-09T18:40:16.974Z
 startTime: Mon Nov 28 2022 12:50:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
