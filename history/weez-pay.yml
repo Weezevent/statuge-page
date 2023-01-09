@@ -1,7 +1,7 @@
-url: https://api.weezevent.com/pay/health_DOWN_EXPERIMENTAL_TEST
-status: down
-code: 404
-responseTime: 355
-lastUpdated: 2023-01-09T18:54:29.173Z
+url: https://api.weezevent.com/pay/health
+status: up
+code: 200
+responseTime: 282
+lastUpdated: 2023-01-09T18:55:36.777Z
 startTime: Mon Nov 28 2022 14:56:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
