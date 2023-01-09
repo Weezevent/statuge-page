@@ -10,7 +10,7 @@ sites:
   - name: WeezAccess
     url: https://api.weezevent.com/access/health # butter
   - name: WeezPay
-    url: https://api.weezevent.com/pay/health_DOWN_EXPERIMENTAL_TEST # gill
+    url: https://api.weezevent.com/pay/health # gill
   - name: WeezTarget
     url: https://api.weezevent.com/target/ # boby
     expectedStatusCodes:
