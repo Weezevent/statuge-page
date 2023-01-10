@@ -6,10 +6,13 @@ sites:
     # APIs
   - name: WeezAccess
     url: https://api.weezevent.com/access/health # butter
+    icon: https://cdn.statically.io/gh/Weezevent/status-page/master/assets/weezaccess.png
   - name: WeezPay
     url: https://api.weezevent.com/pay/health # gill
+    icon: https://cdn.statically.io/gh/Weezevent/status-page/master/assets/weezpay.png
   - name: WeezTarget
     url: https://api.weezevent.com/target/ # boby
+    icon: https://cdn.statically.io/gh/Weezevent/status-page/master/assets/weeztarget.png
     expectedStatusCodes:
       - 403
   - name: WeezPayment
@@ -21,6 +24,7 @@ sites:
     url: https://guichet.weezevent.com/
   - name: WeezTicket
     url: https://api.weezevent.com/ticket/health # pyvar
+    icon: https://cdn.statically.io/gh/Weezevent/status-page/master/assets/weezticket.png
   - name: Weezevent
     url: https://weezevent.com/en-gb/
 
