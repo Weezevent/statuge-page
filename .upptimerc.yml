@@ -3,9 +3,6 @@ owner: Weezevent # Your GitHub organization or username, where this repository l
 repo: status-page # The name of this repository
 
 sites:
-  - name: Weezevent
-    url: https://weezevent.com/en-gb/
-
     # APIs
   - name: WeezAccess
     url: https://api.weezevent.com/access/health # butter
@@ -24,6 +21,8 @@ sites:
     url: https://guichet.weezevent.com/
   - name: WeezTicket
     url: https://api.weezevent.com/ticket/health # pyvar
+  - name: Weezevent
+    url: https://weezevent.com/en-gb/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
