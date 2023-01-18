@@ -15,6 +15,10 @@ sites:
     icon: https://cdn.statically.io/gh/Weezevent/status-page/master/assets/weeztarget.png
     expectedStatusCodes:
       - 403
+  - name: WeezCheckpoint
+    url: https://api.weezevent.com/checkpoint
+    expectedStatusCodes:
+      - 401
   - name: WeezPayment
     url: lyria.weezevent.com/health
 
