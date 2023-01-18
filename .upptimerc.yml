@@ -21,7 +21,7 @@ sites:
       - 401
   - name: WeezPayment
     url: lyria.weezevent.com/health
-
+    icon: https://cdn.statically.io/gh/Weezevent/status-page/0b61f5cb/assets/WeezPayment.png
   - name: Back-office
     url: https://www.weezevent.com/bo/
   - name: Guichet / Ticket Office
