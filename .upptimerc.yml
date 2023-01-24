@@ -17,6 +17,7 @@ sites:
       - 403
   - name: WeezCheckpoint
     url: https://api.weezevent.com/checkpoint
+    icon: https://weezevent.com/apple-touch-icon.png
     expectedStatusCodes:
       - 401
   - name: WeezPayment
