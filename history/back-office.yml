@@ -1,7 +1,7 @@
-url: https://www.weezevent.com/bo/
-status: up
-code: 200
-responseTime: 1305
-lastUpdated: 2023-01-25T23:02:45.313Z
+url: https://www.weezevent.com/bo/_BAD
+status: down
+code: 404
+responseTime: 298
+lastUpdated: 2023-01-26T17:15:53.444Z
 startTime: Mon Nov 28 2022 12:50:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
