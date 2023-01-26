@@ -11,7 +11,7 @@ sites:
     url: https://api.weezevent.com/pay/health # gill
     icon: https://cdn.statically.io/gh/Weezevent/status-page/master/assets/weezpay.png
   - name: WeezTarget
-    url: https://api.weezevent.com/target/ # boby
+    url: https://api.weezevent.com/target/_BAD # boby
     icon: https://cdn.statically.io/gh/Weezevent/status-page/master/assets/weeztarget.png
     expectedStatusCodes:
       - 403
@@ -24,11 +24,11 @@ sites:
     url: lyria.weezevent.com/health
     icon: https://cdn.statically.io/gh/Weezevent/status-page/0b61f5cb/assets/WeezPayment.png
   - name: Back-office
-    url: https://www.weezevent.com/bo/
+    url: https://www.weezevent.com/bo/_BAD
   - name: Guichet / Ticket Office
-    url: https://guichet.weezevent.com/
+    url: https://guichet.weezevent.com/_BAD
   - name: WeezTicket
-    url: https://api.weezevent.com/ticket/health # pyvar
+    url: https://api.weezevent.com/ticket/health_BAD # pyvar
     icon: https://cdn.statically.io/gh/Weezevent/status-page/master/assets/weezticket.png
   - name: Weezevent
     url: https://weezevent.com/en-gb/
