@@ -4,6 +4,9 @@ repo: status-page # The name of this repository
 
 sites:
     # APIs
+  - name: WeezTicket
+    url: https://api.weezevent.com/ticket/health # pyvar
+    icon: https://cdn.statically.io/gh/Weezevent/status-page/master/assets/weezticket.png
   - name: WeezAccess 
     url: https://api.weezevent.com/access/health # butter
     icon: https://cdn.statically.io/gh/Weezevent/status-page/master/assets/weezaccess.png
@@ -27,10 +30,7 @@ sites:
     url: https://www.weezevent.com/bo/
   - name: Guichet / Ticket Office
     url: https://guichet.weezevent.com
-  - name: WeezTicket
-    url: https://api.weezevent.com/ticket/health # pyvar
-    icon: https://cdn.statically.io/gh/Weezevent/status-page/master/assets/weezticket.png
-  - name: Weezevent
+  - name: Weezevent website
     url: https://weezevent.com/en-gb/
 
 status-website:
