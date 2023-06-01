@@ -30,7 +30,7 @@ sites:
     url: https://www.weezevent.com/bo/
   - name: Guichet / Ticket Office
     url: https://guichet.weezevent.com
-  - name: Weezevent website
+  - name: Weezevent showcase website
     url: https://weezevent.com/en-gb/
 
 status-website:
