@@ -1,7 +1,12 @@
 url: https://api.weezevent.com/checkpoint
 status: up
 code: 401
+<<<<<<< HEAD
 responseTime: 197
 lastUpdated: 2023-06-13T23:02:53.903Z
+=======
+responseTime: 284
+lastUpdated: 2023-06-01T14:32:02.703Z
+>>>>>>> 98b33f6d (🟩 WeezCheckpoint is up (401 in 284 ms) [skip ci] [upptime])
 startTime: Wed Jan 18 2023 17:52:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
