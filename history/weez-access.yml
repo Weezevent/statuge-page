@@ -1,7 +1,12 @@
 url: https://api.weezevent.com/access/health
 status: up
 code: 200
+<<<<<<< HEAD
 responseTime: 261
 lastUpdated: 2023-06-13T23:02:52.518Z
+=======
+responseTime: 280
+lastUpdated: 2023-06-01T14:32:01.318Z
+>>>>>>> 6dabfd70 (🟩 WeezAccess is up (200 in 280 ms) [skip ci] [upptime])
 startTime: Mon Nov 28 2022 12:50:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
