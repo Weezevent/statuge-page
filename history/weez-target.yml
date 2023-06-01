@@ -1,7 +1,12 @@
 url: https://api.weezevent.com/target/
 status: up
 code: 403
+<<<<<<< HEAD
 responseTime: 198
 lastUpdated: 2023-06-13T23:02:53.432Z
+=======
+responseTime: 84
+lastUpdated: 2023-06-01T14:32:02.156Z
+>>>>>>> 8e6676d6 (🟩 WeezTarget is up (403 in 84 ms) [skip ci] [upptime])
 startTime: Mon Nov 28 2022 12:50:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
