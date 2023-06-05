@@ -40,19 +40,19 @@
     "url": "https://api.weezevent.com/pay/health",
     "icon": "https://cdn.statically.io/gh/Weezevent/status-page/master/assets/weezpay.png",
     "slug": "weez-pay",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 396,
-    "timeDay": 521,
-    "timeWeek": 342,
-    "timeMonth": 357,
+    "timeDay": 520,
+    "timeWeek": 362,
+    "timeMonth": 362,
     "timeYear": 396,
     "dailyMinutesDown": {
-      "2023-06-05": 0
+      "2023-06-05": 13
     }
   },
   {
