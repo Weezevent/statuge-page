@@ -1,12 +1,7 @@
 url: https://api.weezevent.com/pay/health
 status: up
 code: 200
-<<<<<<< HEAD
 responseTime: 195
 lastUpdated: 2023-06-13T23:02:52.975Z
-=======
-responseTime: 211
-lastUpdated: 2023-06-01T14:32:01.809Z
->>>>>>> 58ad1135 (🟩 WeezPay is up (200 in 211 ms) [skip ci] [upptime])
 startTime: Mon Nov 28 2022 14:56:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
