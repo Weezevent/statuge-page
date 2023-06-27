@@ -4,19 +4,19 @@
     "url": "https://api.weezevent.com/ticket/health",
     "icon": "https://cdn.statically.io/gh/Weezevent/status-page/master/assets/weezticket.png",
     "slug": "weez-ticket",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 341,
-    "timeDay": 406,
-    "timeWeek": 303,
-    "timeMonth": 332,
+    "timeDay": 435,
+    "timeWeek": 324,
+    "timeMonth": 337,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2023-06-27": 5
+      "2023-06-27": 10
     }
   },
   {
