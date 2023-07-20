@@ -66,9 +66,9 @@
     "slug": "weez-target",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 327,
     "timeDay": 292,
@@ -76,7 +76,6 @@
     "timeMonth": 288,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2023-07-19": 7,
       "2023-07-06": 26
     }
   },
@@ -157,19 +156,19 @@
     "url": "https://weezevent.com/en-gb/",
     "icon": "https://icons.duckduckgo.com/ip3/weezevent.com.ico",
     "slug": "weezevent-showcase-website",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1863,
-    "timeDay": 1776,
-    "timeWeek": 1836,
-    "timeMonth": 1868,
-    "timeYear": 1863,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1918,
+    "timeDay": 2332,
+    "timeWeek": 2052,
+    "timeMonth": 1933,
+    "timeYear": 1918,
     "dailyMinutesDown": {
-      "2023-07-20": 7
+      "2023-07-20": 0
     }
   }
 ]
