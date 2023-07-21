@@ -84,18 +84,20 @@
     "url": "https://api.weezevent.com/checkpoint",
     "icon": "https://weezevent.com/apple-touch-icon.png",
     "slug": "weez-checkpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 412,
-    "timeWeek": 340,
+    "timeDay": 359,
+    "timeWeek": 336,
     "timeMonth": 302,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-21": 0
+    }
   },
   {
     "name": "WeezPayment",
@@ -163,7 +165,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1900,
-    "timeDay": 2046,
+    "timeDay": 1646,
     "timeWeek": 1936,
     "timeMonth": 1914,
     "timeYear": 1900,
