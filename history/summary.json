@@ -102,19 +102,19 @@
     "url": "lyria.weezevent.com/health",
     "icon": "https://cdn.statically.io/gh/Weezevent/status-page/0b61f5cb/assets/WeezPayment.png",
     "slug": "weez-payment",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 792,
-    "timeWeek": 1156,
-    "timeMonth": 695,
-    "timeYear": 541,
+    "time": 540,
+    "timeDay": 572,
+    "timeWeek": 1056,
+    "timeMonth": 684,
+    "timeYear": 540,
     "dailyMinutesDown": {
-      "2023-07-24": 0
+      "2023-07-24": 5
     }
   },
   {
