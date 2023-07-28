@@ -1,7 +1,7 @@
 url: https://api.weezevent.com/checkpoint
-status: down
-code: 500
-responseTime: 538
-lastUpdated: 2023-07-28T16:25:24.164Z
+status: up
+code: 401
+responseTime: 324
+lastUpdated: 2023-07-28T16:33:58.097Z
 startTime: Wed Jan 18 2023 17:52:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
