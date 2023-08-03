@@ -32,6 +32,8 @@ sites:
     url: https://guichet.weezevent.com
   - name: Weezevent showcase website
     url: https://weezevent.com/en-gb/
+  - name: Weezevent 3D Ticketing Map
+    url: https://www.weezevent.com/pacifa-api/PanoProvider.asmx
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
