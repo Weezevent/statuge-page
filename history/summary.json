@@ -108,9 +108,9 @@
     "url": "lyria.weezevent.com/health",
     "icon": "https://cdn.statically.io/gh/Weezevent/status-page/0b61f5cb/assets/WeezPayment.png",
     "slug": "weez-payment",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -119,7 +119,9 @@
     "timeWeek": 459,
     "timeMonth": 463,
     "timeYear": 525,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-12": 0
+    }
   },
   {
     "name": "Back-office",
