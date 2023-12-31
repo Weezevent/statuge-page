@@ -182,19 +182,19 @@
     "url": "https://www.weezevent.com/pacifa-api/PanoProvider.asmx",
     "icon": "https://icons.duckduckgo.com/ip3/www.weezevent.com.ico",
     "slug": "weezevent-3-d-ticketing-map",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 598,
-    "timeWeek": 375,
-    "timeMonth": 368,
-    "timeYear": 316,
+    "time": 315,
+    "timeDay": 480,
+    "timeWeek": 360,
+    "timeMonth": 363,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2023-12-31": 0
+      "2023-12-31": 6
     }
   }
 ]
