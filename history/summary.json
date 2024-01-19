@@ -128,19 +128,19 @@
     "url": "https://www.weezevent.com/bo/",
     "icon": "https://icons.duckduckgo.com/ip3/www.weezevent.com.ico",
     "slug": "back-office",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1182,
-    "timeDay": 5612,
-    "timeWeek": 2161,
-    "timeMonth": 1219,
-    "timeYear": 1110,
+    "time": 1181,
+    "timeDay": 3999,
+    "timeWeek": 2007,
+    "timeMonth": 1206,
+    "timeYear": 1108,
     "dailyMinutesDown": {
-      "2024-01-19": 0
+      "2024-01-19": 9
     }
   },
   {
