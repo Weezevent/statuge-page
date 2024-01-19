@@ -128,18 +128,20 @@
     "url": "https://www.weezevent.com/bo/",
     "icon": "https://icons.duckduckgo.com/ip3/www.weezevent.com.ico",
     "slug": "back-office",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1156,
-    "timeDay": 885,
-    "timeWeek": 993,
-    "timeMonth": 925,
-    "timeYear": 1074,
-    "dailyMinutesDown": {}
+    "time": 1182,
+    "timeDay": 5612,
+    "timeWeek": 2161,
+    "timeMonth": 1219,
+    "timeYear": 1110,
+    "dailyMinutesDown": {
+      "2024-01-19": 0
+    }
   },
   {
     "name": "Guichet / Ticket Office",
