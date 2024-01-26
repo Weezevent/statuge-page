@@ -129,18 +129,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.weezevent.com.ico",
     "slug": "back-office",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.35%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "5.40%",
-    "uptimeMonth": "78.23%",
-    "uptimeYear": "98.19%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "76.95%",
+    "uptimeYear": "98.08%",
     "time": 1175,
     "timeDay": 1180,
-    "timeWeek": 1899,
+    "timeWeek": 853,
     "timeMonth": 1199,
     "timeYear": 1096,
     "dailyMinutesDown": {
-      "2024-01-26": 2,
+      "2024-01-26": 565,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
@@ -173,9 +173,9 @@
     "url": "https://weezevent.com/en-gb/",
     "icon": "https://icons.duckduckgo.com/ip3/weezevent.com.ico",
     "slug": "weezevent-showcase-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -184,7 +184,9 @@
     "timeWeek": 2694,
     "timeMonth": 2813,
     "timeYear": 2076,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-26": 0
+    }
   },
   {
     "name": "Weezevent 3D Ticketing Map",
