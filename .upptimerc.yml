@@ -19,7 +19,7 @@ sites:
     expectedStatusCodes:
       - 403
   - name: WeezCheckpoint
-    url: https://api.weezevent.com/checkpoint
+    url: https://api.weezevent.com/checkpoint_ATTEMPT_TO_BREAK_FOR_TEST
     icon: https://weezevent.com/apple-touch-icon.png
     expectedStatusCodes:
       - 401
