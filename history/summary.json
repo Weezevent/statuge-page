@@ -92,8 +92,8 @@
     "slug": "weez-checkpoint",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 277,
@@ -102,7 +102,7 @@
     "timeMonth": 112,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2024-01-30": 0
+      "2024-01-30": 1
     }
   },
   {
