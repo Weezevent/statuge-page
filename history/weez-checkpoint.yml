@@ -1,7 +1,7 @@
-url: https://api.weezevent.com/checkpoint
-status: up
-code: 401
+url: https://api.weezevent.com/checkpoint_ATTEMPT_TO_BREAK_FOR_TEST
+status: down
+code: 404
 responseTime: 157
-lastUpdated: 2024-01-29T23:04:52.864Z
+lastUpdated: 2024-01-30T10:39:37.269Z
 startTime: 2023-01-18T17:52:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
