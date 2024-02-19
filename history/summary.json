@@ -164,19 +164,19 @@
     "url": "https://weezevent.com/en-gb/",
     "icon": "https://icons.duckduckgo.com/ip3/weezevent.com.ico",
     "slug": "weezevent-showcase-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2197,
-    "timeDay": 2988,
-    "timeWeek": 2820,
-    "timeMonth": 2832,
-    "timeYear": 2197,
+    "time": 2199,
+    "timeDay": 2818,
+    "timeWeek": 2798,
+    "timeMonth": 2826,
+    "timeYear": 2199,
     "dailyMinutesDown": {
-      "2024-02-19": 0
+      "2024-02-19": 7
     }
   },
   {
