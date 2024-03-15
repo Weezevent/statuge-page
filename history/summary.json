@@ -168,7 +168,7 @@
     "uptime": "90.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.80%",
+    "uptimeMonth": "17.78%",
     "uptimeYear": "90.86%",
     "time": 2281,
     "timeDay": 2449,
@@ -176,7 +176,7 @@
     "timeMonth": 2842,
     "timeYear": 2281,
     "dailyMinutesDown": {
-      "2024-03-15": 430,
+      "2024-03-15": 439,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -209,19 +209,19 @@
     "url": "https://www.weezevent.com/pacifa-api/PanoProvider.asmx",
     "icon": "https://icons.duckduckgo.com/ip3/www.weezevent.com.ico",
     "slug": "weezevent-3-d-ticketing-map",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 604,
-    "timeWeek": 441,
-    "timeMonth": 464,
-    "timeYear": 366,
+    "time": 365,
+    "timeDay": 499,
+    "timeWeek": 422,
+    "timeMonth": 458,
+    "timeYear": 365,
     "dailyMinutesDown": {
-      "2024-03-15": 0
+      "2024-03-15": 9
     }
   }
 ]
