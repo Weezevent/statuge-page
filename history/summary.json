@@ -11,13 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 505,
-    "timeDay": 390,
-    "timeWeek": 426,
-    "timeMonth": 430,
+    "timeDay": 324,
+    "timeWeek": 419,
+    "timeMonth": 429,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2023-09-08": 5,
-      "2023-07-28": 9
+      "2023-09-08": 5
     }
   },
   {
@@ -31,14 +30,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 81,
-    "timeWeek": 92,
-    "timeMonth": 96,
-    "timeYear": 144,
-    "dailyMinutesDown": {
-      "2023-07-28": 9
-    }
+    "time": 202,
+    "timeDay": 76,
+    "timeWeek": 91,
+    "timeMonth": 97,
+    "timeYear": 143,
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeezPay",
@@ -52,13 +49,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 90,
-    "timeWeek": 101,
+    "timeDay": 83,
+    "timeWeek": 99,
     "timeMonth": 105,
-    "timeYear": 148,
-    "dailyMinutesDown": {
-      "2023-07-28": 9
-    }
+    "timeYear": 147,
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeezTarget",
@@ -71,14 +66,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 86,
-    "timeWeek": 96,
+    "time": 187,
+    "timeDay": 79,
+    "timeWeek": 95,
     "timeMonth": 101,
-    "timeYear": 144,
-    "dailyMinutesDown": {
-      "2023-07-28": 9
-    }
+    "timeYear": 143,
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeezCheckpoint",
@@ -92,7 +85,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 89,
+    "timeDay": 83,
     "timeWeek": 100,
     "timeMonth": 110,
     "timeYear": 147,
@@ -110,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 583,
-    "timeDay": 507,
-    "timeWeek": 559,
-    "timeMonth": 599,
+    "timeDay": 521,
+    "timeWeek": 565,
+    "timeMonth": 601,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2023-09-12": 6
@@ -129,10 +122,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1056,
-    "timeDay": 802,
-    "timeWeek": 832,
-    "timeMonth": 909,
+    "time": 1057,
+    "timeDay": 713,
+    "timeWeek": 841,
+    "timeMonth": 910,
     "timeYear": 1007,
     "dailyMinutesDown": {}
   },
@@ -148,8 +141,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 624,
-    "timeDay": 523,
-    "timeWeek": 664,
+    "timeDay": 473,
+    "timeWeek": 670,
     "timeMonth": 627,
     "timeYear": 625,
     "dailyMinutesDown": {}
@@ -160,18 +153,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/weezevent.com.ico",
     "slug": "weezevent-showcase-website",
     "status": "up",
-    "uptime": "61.18%",
+    "uptime": "61.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "56.79%",
-    "time": 2873,
-    "timeDay": 3438,
-    "timeWeek": 3530,
-    "timeMonth": 3943,
-    "timeYear": 3042,
+    "uptimeYear": "56.52%",
+    "time": 2875,
+    "timeDay": 3498,
+    "timeWeek": 3543,
+    "timeMonth": 3948,
+    "timeYear": 3048,
     "dailyMinutesDown": {
-      "2024-07-26": 2,
+      "2024-07-27": 2,
+      "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
@@ -338,18 +332,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.weezevent.com.ico",
     "slug": "weezevent-3-d-ticketing-map",
     "status": "up",
-    "uptime": "62.87%",
+    "uptime": "62.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "62.87%",
+    "uptimeYear": "62.69%",
     "time": 436,
-    "timeDay": 290,
-    "timeWeek": 271,
+    "timeDay": 286,
+    "timeWeek": 302,
     "timeMonth": 330,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2024-07-26": 2,
+      "2024-07-27": 2,
+      "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
