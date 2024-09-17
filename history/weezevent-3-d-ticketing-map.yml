@@ -1,7 +1,7 @@
 url: https://www.weezevent.com/pacifa-api/PanoProvider.asmx
-status: down
-code: 504
-responseTime: 10510
-lastUpdated: 2024-09-16T23:55:12.684Z
+status: up
+code: 200
+responseTime: 526
+lastUpdated: 2024-09-17T00:03:47.694Z
 startTime: 2023-08-03T15:06:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
