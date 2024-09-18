@@ -22,19 +22,19 @@
     "url": "https://api.weezevent.com/access/health",
     "icon": "https://cdn.statically.io/gh/Weezevent/status-page/master/assets/weezaccess.png",
     "slug": "weez-access",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 144,
-    "timeWeek": 108,
+    "time": 166,
+    "timeDay": 114,
+    "timeWeek": 105,
     "timeMonth": 98,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2024-09-18": 14
+      "2024-09-18": 18
     }
   },
   {
@@ -80,9 +80,9 @@
     "slug": "weez-checkpoint",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 222,
     "timeDay": 11528,
@@ -90,7 +90,7 @@
     "timeMonth": 818,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-09-18": 12
+      "2024-09-18": 16
     }
   },
   {
@@ -164,7 +164,7 @@
     "timeMonth": 4851,
     "timeYear": 3563,
     "dailyMinutesDown": {
-      "2024-09-18": 718,
+      "2024-09-18": 722,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -396,7 +396,7 @@
     "timeMonth": 644,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2024-09-18": 718,
+      "2024-09-18": 723,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
