@@ -24,9 +24,9 @@
     "slug": "weez-access",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 167,
     "timeDay": 144,
@@ -34,7 +34,7 @@
     "timeMonth": 98,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2024-09-18": 2
+      "2024-09-18": 14
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://api.weezevent.com/checkpoint",
     "icon": "https://weezevent.com/apple-touch-icon.png",
     "slug": "weez-checkpoint",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 167,
-    "timeWeek": 117,
-    "timeMonth": 106,
-    "timeYear": 109,
+    "time": 222,
+    "timeDay": 11528,
+    "timeWeek": 2964,
+    "timeMonth": 818,
+    "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-09-18": 0
+      "2024-09-18": 12
     }
   },
   {
@@ -164,7 +164,7 @@
     "timeMonth": 4851,
     "timeYear": 3563,
     "dailyMinutesDown": {
-      "2024-09-18": 706,
+      "2024-09-18": 718,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -396,7 +396,7 @@
     "timeMonth": 644,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2024-09-18": 706,
+      "2024-09-18": 718,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
